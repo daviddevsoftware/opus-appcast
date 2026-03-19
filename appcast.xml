@@ -4,12 +4,12 @@
     <title>Opus Updates</title>
     <link>https://github.com/daviddevsoftware/opus/releases</link>
     <item>
-      <title>Opus 1.0.36</title>
-      <pubDate>Thu, 19 Mar 2026 16:29:10 -0600</pubDate>
-      <sparkle:version>51</sparkle:version>
-      <sparkle:shortVersionString>1.0.36</sparkle:shortVersionString>
+      <title>Opus 1.0.37</title>
+      <pubDate>Thu, 19 Mar 2026 17:07:04 -0600</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.0.37</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/daviddevsoftware/opus-appcast/releases/download/v1.0.36/Opus-1.0.36.pkg" type="application/octet-stream" sparkle:installationType="package" length="6650702" sparkle:edSignature="Gdzz5iOhEzIrm5u5GvN+pRkjJegPMR9tWKL4NRkGDvTAwBp3ukzzRHw2ym85z3ijB3FJwLDnCh08pZONEvPJBw==" />
+      <enclosure url="https://github.com/daviddevsoftware/opus-appcast/releases/download/v1.0.37/Opus-1.0.37.pkg" type="application/octet-stream" sparkle:installationType="package" length="6658100" sparkle:edSignature="P/pcgKPGrjcloOEhpMOb9ctJJaTAQoVl5BCjzR/jMxG9xeOQ/vRpOKDvh9ocy5cpWRaLrAKfZM3B6XQGoKRRAw==" />
     </item>
   </channel>
 </rss>
